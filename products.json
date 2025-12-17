@@ -206,7 +206,7 @@
     "id": 26,
     "title": "Чёрный чай",
        "price": 120,
-    "image": "https://raw.githubusercontent.com/Karase424/sushi-api/main/images/Чёрный_чай.png",
+    "image": "https://raw.githubusercontent.com/Karase424/sushi-api/main/images/black_tea.png",
     "category": "drinks",
     "description": "Горячий чёрный чай."
   },
